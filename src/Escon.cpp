@@ -4,7 +4,7 @@
 #include <EEPROM.h>
 #include <PubSubClient.h>
 #include "LittleFS.h"
-#include "escon.h"
+#include "Escon.h"
 struct settings {
   char ssid[20];
   char password[20];
