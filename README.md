@@ -1,2 +1,2 @@
-# LCD_I2C
+# Escon
 Arduino library to control IoT Devices
